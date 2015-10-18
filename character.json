@@ -1,0 +1,6 @@
+{
+	"characters" : [
+		{ "name" : "Vygore", "hitpoints" : 120, "attack" : 10 },
+		{ "name" : "Destroyer", "hitpoints" : 100, "attack" : 12 }
+	]
+}
